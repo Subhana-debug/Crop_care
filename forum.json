@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "user": "Subhana",
+      "question": "How do you identify early signs of crop diseases?",
+      "tag": "General",
+      "timestamp": "2025-08-09T21:35:55.886724",
+      "image": "20250809213555885734.jpeg",
+      "replies": [
+        {
+          "user": "Harini",
+          "reply": "Leaf changes \u2013 Yellowing, browning, curling, or spots appearing.  Stunted growth \u2013 Plants stop growing as expected.  Wilting \u2013 Leaves droop even when soil has enough moisture.  Unusual spots or patches \u2013 Brown, black, or white marks on leaves, stems, or fruits.  Mold or powdery coating \u2013 White, grey, or black growth on plant surfaces.  Stem or root damage \u2013 Cracks, rot, or soft spots near the base.",
+          "image": null,
+          "timestamp": "2025-08-09T21:37:08.197463"
+        },
+        {
+          "user": "Mahisha",
+          "reply": "I suggest you that  Inspect fields at least twice a week, especially after rains or sudden weather changes, because diseases spread fastest in those conditions.",
+          "image": null,
+          "timestamp": "2025-08-09T21:38:03.947134"
+        }
+      ]
+    }
+  ]
+}
